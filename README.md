@@ -1,3 +1,2 @@
 The test pdp project (instagram clone)
-<img width="396" alt="Screenshot 2025-03-13 at 18 18 00" src="https://github.com/user-attachments/assets/6ae06228-30cf-47e5-b49f-001c850bfbc5" />
-<img width="396" alt="Screenshot 2025-03-13 at 18 17 55" src="https://github.com/user-attachments/assets/3ebc9e2d-8ee3-446f-8dcd-77f923bf2849" />
+![Screenshot 2025-03-13 at 18 19 54](https://github.com/user-attachments/assets/b48618dc-7ec9-4228-8c89-f5374d9fde17)![Screenshot 2025-03-13 at 18 19 48](https://github.com/user-attachments/assets/ab685440-2377-4032-a57f-fa3d8744d65e)
